@@ -13,12 +13,13 @@ This repository contains an applied statistical analysis of New South Wales (NSW
 5. **Task 4: Seasonal Effects (Mixture Models on Temperature)**
 
 
-## Repository Structure  
+## Repository Structure
 
-├── _**Statistical-Report-MATH7002-22058122.pdf**_ ← Final rendered report (40 pages)
+- **Statistical-Report-MATH7002-22058122.pdf**  
+  Final rendered report (40 pages)
 
-├── Statistical-Report-MATH7002-22058122.Rmd ← R Markdown source
-
+- **Statistical-Report-MATH7002-22058122.Rmd**  
+  R Markdown source for the report
 
 ##  Requirements  
 
