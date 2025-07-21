@@ -31,13 +31,6 @@ This repository contains an applied statistical analysis of New South Wales (NSW
 - A LaTeX distribution (e.g. TeX Live or TinyTeX) for PDF rendering  
 
 
-## Getting Started  
-
-1. **Clone this repo**  
-   ```bash
-   git clone https://github.com/midhunshyam/NSW-Fire-Analysis.git
-   cd NSW-Fire-Analysis
-
 ## File Descriptions
 
 **MATH7002_22058122.pdf** ← The main report containing the mathematical equations for the statistical models
