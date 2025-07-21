@@ -15,9 +15,9 @@ This repository contains an applied statistical analysis of New South Wales (NSW
 
 ## Repository Structure  
 
-├── MATH7002_22058122.pdf ← Final rendered report (40 pages)
+├── Statistical-Report-MATH7002-22058122.pdf ← Final rendered report (40 pages)
 
-├── 22058122.Rmd ← R Markdown source
+├── Statistical-Report-MATH7002-22058122.Rmd ← R Markdown source
 
 
 ##  Requirements  
