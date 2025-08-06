@@ -49,5 +49,5 @@ _**Statistical-Report-MATH7002-22058122.pdf**_ ← The main report containing th
 - Fire-type distribution is significantly non‑uniform (χ² = 224.94, p < 2.2e‑16).
 - Spatial density: A 3‑component Gaussian mixture captures clusters; estimated fire density at WSU Parramatta South is ~0.18.
 - Humidity–duration relationship fits best with k = 3 regression mixtures, supporting hidden environmental factors.
-- Equipment allocation for 35–45 min fires: roughly 56 % desert, 43 % forest, and minimal grassland retardants.
+- Equipment allocation for 35–45 min fires: roughly 50 % desert, 40 % forest, and minimal grassland retardants.
 - Seasonal temperature patterns resolve into three clusters, insufficient to cleanly identify four seasons via mixture models.
