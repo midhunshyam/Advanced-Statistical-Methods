@@ -1,6 +1,5 @@
 # Advanced Statistical Methods: NSW Fire Data (2024)   
 
-## Introduction:  
 This repository contains an applied statistical analysis of New South Wales (NSW) fire data (2024), examining spatial patterns, environmental drivers, and operational implications for fire‐rescue services. Analyses include:
 
 1. **Preliminary Exploration & Chi‑square Test**  
@@ -15,8 +14,12 @@ This repository contains an applied statistical analysis of New South Wales (NSW
 - `Statistical-Report-MATH7002-22058122.pdf`  
   Final rendered report (40 pages)
 
+The `Statistical-Report-MATH7002-22058122.pdf` contains the detailed report with the mathematical equations for the statistical models. This is a polished 40‑page PDF report derived from the .Rmd including table of contents, inline code output, figures (boxplots, density plots, maps), and narrative interpretation.
+
 - `Statistical-Report-MATH7002-22058122.Rmd`  
   R Markdown source for the report
+
+`Statistical-Report-MATH7002-22058122.Rmd` is the fully annotated R Markdown source. This Contains code chunks for data import, EDA, statistical testing, modeling, plotting, and mapping.Organised into numbered “Task” sections, each with clear hypotheses, methodology, results, and conclusions.
 
 ##  Requirements  
 
@@ -27,15 +30,6 @@ This repository contains an applied statistical analysis of New South Wales (NSW
   - `leaflet`, `leaflet.extras`, `htmltools`  
 - **Pandoc** (for knitting to PDF)  
 - A LaTeX distribution (e.g. TeX Live or TinyTeX) for PDF rendering  
-
-
-## File Descriptions
-
-The `Statistical-Report-MATH7002-22058122.pdf` contains the detailed report with the mathematical equations for the statistical models. This is a polished 40‑page PDF report derived from the .Rmd including table of contents, inline code output, figures (boxplots, density plots, maps), and narrative interpretation.
-
-`Statistical-Report-MATH7002-22058122.Rmd` is the fully annotated R Markdown source. This Contains code chunks for data import, EDA, statistical testing, modeling, plotting, and mapping.Organised into numbered “Task” sections, each with clear hypotheses, methodology, results, and conclusions.
-
-
 
 ## Key Findings
 
