@@ -28,8 +28,6 @@ The `Statistical-Report-MATH7002-22058122.pdf` contains the detailed report with
   - `mixtools`, `mvtnorm`, `MASS`  
   - `hexbin`, `ggplot2`, `dplyr`  
   - `leaflet`, `leaflet.extras`, `htmltools`  
-- **Pandoc** (for knitting to PDF)  
-- A LaTeX distribution (e.g. TeX Live or TinyTeX) for PDF rendering  
 
 ## Key Findings
 
