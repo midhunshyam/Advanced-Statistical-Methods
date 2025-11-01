@@ -2,6 +2,9 @@
 
 This repository contains an applied statistical analysis of New South Wales (NSW) fire data (2024), examining spatial patterns, environmental drivers, and operational implications for fire‐rescue services. 
 
+What the fire 2024 data shows us:
+![FireNSW24](./FireNSW24.png)
+
 Analyses include:
 
 1. **Preliminary Exploration & Chi‑square Test**  
