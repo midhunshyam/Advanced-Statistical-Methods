@@ -34,13 +34,9 @@ This repository contains an applied statistical analysis of New South Wales (NSW
 
 ## File Descriptions
 
-_**Statistical-Report-MATH7002-22058122.pdf**_ ← The main report containing the mathematical equations for the statistical models
+The `Statistical-Report-MATH7002-22058122.pdf` contains the detailed report with the mathematical equations for the statistical models. This is a polished 40‑page PDF report derived from the .Rmd including table of contents, inline code output, figures (boxplots, density plots, maps), and narrative interpretation.
 
-- A polished 40‑page PDF report derived from the .Rmd. Includes table of contents, inline code output, figures (boxplots, density plots, maps), and narrative interpretation.
-
-**Statistical-Report-MATH7002-22058122.Rmd**
-
-- The fully annotated R Markdown source. This Contains code chunks for data import, EDA, statistical testing, modeling, plotting, and mapping.Organised into numbered “Task” sections, each with clear hypotheses, methodology, results, and conclusions.
+`Statistical-Report-MATH7002-22058122.Rmd` is the fully annotated R Markdown source. This Contains code chunks for data import, EDA, statistical testing, modeling, plotting, and mapping.Organised into numbered “Task” sections, each with clear hypotheses, methodology, results, and conclusions.
 
 
 
