@@ -19,12 +19,12 @@ Analyses include:
 `Fire2024-Report.pdf`  
 > Final rendered report (40 pages)
 
-The `Fire2024-Report.pdf` contains the detailed report with the mathematical equations for the statistical models. This is a polished 40‑page PDF report derived from the .Rmd including table of contents, inline code output, figures (boxplots, density plots, maps), and narrative interpretation.
+The `Fire2024-Report.pdf` contains the detailed report with the mathematical equations for the statistical models. This is a polished 40‑page PDF report derived from the `.Rmd` including table of contents, inline code output, figures (boxplots, density plots, maps), and narrative interpretation.
 
 `ASM-Fire2024.Rmd`  
 > R Markdown source for the report
 
-`ASM-Fire2024.Rmd` is the fully annotated R Markdown source. This Contains code chunks for data import, EDA, statistical testing, modeling, plotting, and mapping.Organised into numbered “Task” sections, each with clear hypotheses, methodology, results, and conclusions.
+`ASM-Fire2024.Rmd` is the fully annotated R Markdown source. This Contains code chunks for data import, EDA, statistical testing, modeling, plotting, and mapping. Organised into numbered “Task” sections, each with clear hypotheses, methodology, results, and conclusions.
 
 ##  Requirements  
 
