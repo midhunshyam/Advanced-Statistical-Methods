@@ -1,6 +1,6 @@
-# NSW Fire Data Analysis  
-*Applied Project for MATH7002 – Advanced Statistical Methods*  
-**Author:** Midhun Shyam (Student ID: 22058122)  
+# Advanced Statistical Methods NSW Fire Data Analysis  
+
+**Author:** Midhun Shyam 
 **Date:** 28 October 2024  
 
 ## Overview  
