@@ -1,6 +1,8 @@
 # Advanced Statistical Methods: NSW Fire Data (2024)   
 
-This repository contains an applied statistical analysis of New South Wales (NSW) fire data (2024), examining spatial patterns, environmental drivers, and operational implications for fire‐rescue services. Analyses include:
+This repository contains an applied statistical analysis of New South Wales (NSW) fire data (2024), examining spatial patterns, environmental drivers, and operational implications for fire‐rescue services. 
+
+Analyses include:
 
 1. **Preliminary Exploration & Chi‑square Test**  
 2. **Task 1: Spatial Density (Mixture Models & Kernel Density)**  
