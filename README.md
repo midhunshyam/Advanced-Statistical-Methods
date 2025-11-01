@@ -13,12 +13,12 @@ Analyses include:
 
 ## Repository Structure
 
-### `Statistical-Report-MATH7002-22058122.pdf`  
+`Statistical-Report-MATH7002-22058122.pdf`  
 > Final rendered report (40 pages)
 
 The `Statistical-Report-MATH7002-22058122.pdf` contains the detailed report with the mathematical equations for the statistical models. This is a polished 40‑page PDF report derived from the .Rmd including table of contents, inline code output, figures (boxplots, density plots, maps), and narrative interpretation.
 
-### `Statistical-Report-MATH7002-22058122.Rmd`  
+`Statistical-Report-MATH7002-22058122.Rmd`  
 > R Markdown source for the report
 
 `Statistical-Report-MATH7002-22058122.Rmd` is the fully annotated R Markdown source. This Contains code chunks for data import, EDA, statistical testing, modeling, plotting, and mapping.Organised into numbered “Task” sections, each with clear hypotheses, methodology, results, and conclusions.
