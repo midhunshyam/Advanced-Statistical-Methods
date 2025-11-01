@@ -1,6 +1,6 @@
 # Advanced Statistical Methods NSW Fire Data Analysis  
 
-**Author:** Midhun Shyam 
+**Author:** Midhun Shyam  
 **Date:** 28 October 2024  
 
 ## Overview  
