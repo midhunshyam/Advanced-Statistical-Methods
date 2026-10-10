@@ -177,10 +177,10 @@ The only preprocessing was converting `type` to a factor. The base map in `FireN
 |---|---|
 | [`ASM-Fire2024.Rmd`](ASM-Fire2024.Rmd) | R Markdown source: data import, exploratory plots, chi-squared test, Tasks 1–4 and the Leaflet map |
 | [`Fire2024-Report.pdf`](Fire2024-Report.pdf) | The report, 41 pages: assignment cover sheet (p. 1), contents (p. 2) and the knitted analysis (p. 3–41) |
-| [`FireNSW24.png`](FireNSW24.png) | Screenshot of the Leaflet map of fire locations, the same map as p. 15 of the report |
+| [`FireNSW24.png`](FireNSW24.png) | Screenshot of the Leaflet map of fire locations, the same map as p. 15 of the report; the R Markdown includes it on line 255 |
 | [`docs/images/`](docs/images) | Figures for this README, extracted from the report or re-drawn from its printed parameters |
 
-Not included: `fire2024.csv`, and the map image the R Markdown loads with `knitr::include_graphics()` from an absolute path on the original machine (line 255); `FireNSW24.png` shows the same map.
+Not included: `fire2024.csv`.
 
 ## Reproduce
 
@@ -193,8 +193,7 @@ install.packages(c("hexbin", "mixtools", "mvtnorm", "ggplot2", "dplyr",
 ```
 
 1. Put `fire2024.csv` next to `ASM-Fire2024.Rmd`.
-2. Point the `knitr::include_graphics()` call on line 255 at `FireNSW24.png`.
-3. Knit with `rmarkdown::render("ASM-Fire2024.Rmd")`. The first output in the YAML header is `word_document`, so this produces a Word file; the PDF in this repository adds a cover sheet and a contents page.
+2. Knit with `rmarkdown::render("ASM-Fire2024.Rmd")`. The first output in the YAML header is `word_document`, so this produces a Word file; the PDF in this repository adds a cover sheet and a contents page.
 
 The `boot.comp` chunks are commented out because they crashed during the original knit; uncomment them to run the component tests. The Leaflet map is built but not printed (`map` is commented out on line 251).
 

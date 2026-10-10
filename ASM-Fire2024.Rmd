@@ -252,7 +252,7 @@ map <- leaflet(data) %>%
 ```
 
 ```{r, echo=FALSE, fig.align='center', out.width='100%'}
-knitr::include_graphics("densnsw.png")
+knitr::include_graphics("FireNSW24.png")
 ```
 
 
